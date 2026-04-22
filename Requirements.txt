@@ -1,0 +1,6 @@
+langchain-google-genai
+langchain-community
+pypdf
+faiss-cpu
+langchain-huggingface
+sentence-transformers
