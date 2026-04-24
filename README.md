@@ -48,7 +48,7 @@ The agent demonstrates significant precision in diagnostic tasks. Specifically, 
 
 ---
 
-## 9. References
+## References
 * Raj Arun, R. (2024). *Mastering Large Language Models with Python*. Orange Education Pvt Ltd.
 * Samaroo, A. (2025). *What is a Large Language Model (LLM)?*. Study.com.
 * SharkNinja. (n.d.). *RV2100 Series User's Manual*.
